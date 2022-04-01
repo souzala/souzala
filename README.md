@@ -1,6 +1,8 @@
 ### Oii 👋 Eu sou a Larissa Souza!
-
-- 🌱 Estou estudando PYTHON, CSS and HTML
+- 👩🏻‍🎓 Cursando Bacharelado em Ciências e Tecnologia
+- 🏫 Escola de Ciências e Tecnologia/UFRN
+- 📖 Estou estudando PYTHON, CSS and HTML
+- 🌱 Voluntária na ONG Engenheiros Sem Fronteiras no projeto EDUC
 - 😄 Pronomes: ela/dela
 
 <div>
