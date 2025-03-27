@@ -1,9 +1,8 @@
 ### Oii 👋 Eu sou a Larissa Souza!
-- 👩🏻‍🎓 Cursando Bacharelado em Ciências e Tecnologia
-- 🏫 Escola de Ciências e Tecnologia/UFRN
-- 📖 Estou estudando PYTHON, CSS and HTML
-- 🌱 Voluntária na ONG Engenheiros Sem Fronteiras no projeto EDUC
-- 😄 Pronomes: ela/dela
+- 👩🏻‍🎓 Cursando Engenharia da Computação
+- 👩🏻‍🎓 Mestranda no PPgEEC - Programa de Pós-graduação em Engenharia Elétrica na linha de pesquisa em Visão Computacional e Robótica
+- 🏫 Departamento de Engenharia de Computação e Automação
+
 ##
 
 <div>
